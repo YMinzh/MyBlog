@@ -3,7 +3,7 @@ layout: post
 title: Day-one-linux
 date: 2019-9-26
 categories: blog
-tags: [标签一]
+tags:  [标签一,标签二]
 description: linux命令行。
 ---
 
