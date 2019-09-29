@@ -24,7 +24,7 @@ JavaScript 语言来开发服务器程序。
 
 ### node.js最简单的Demo
 
-![9_28_1](yminzh.github.io/blog/2019/09/28/img/9_28_1.png)
+![9_28_1](../img/9_28_1.png)
 
 利用node.js的http模块实现请求与输出
 
